@@ -12,6 +12,7 @@
     "email": "tuan.nguyen070893@gmail.com",
     "url": "https://github.com/kryptstorm"
   },
+  "main": "lib/index",
   "scripts": {
     "build": "./node_modules/.bin/babel src --out-dir lib",
     "test": "./node_modules/.bin/mocha lib/test.js"
